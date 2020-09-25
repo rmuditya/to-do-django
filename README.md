@@ -1,2 +1,2 @@
-# to-do-django
+# To-DO-Django
 Simple To-Do List application build using django
